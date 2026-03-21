@@ -1,5 +1,5 @@
 # PC-Restore-Point-tutorial
-A repo showing how to create a system Restore Point in case your PC's system file integrity or other features are corrupted/damaged/lost
+Repo showing a tutorial for a system Restore Point so that your PC can be "restored-to-a-previous-state" in case it's system file integrity or other features unexpectedly  become corrupted/damaged/lost
 
 <div align="center"> Select the "Search" icon, search "create a restore point", and select the aforementioned search</div>
  
